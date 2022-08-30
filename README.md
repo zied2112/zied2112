@@ -4,9 +4,13 @@
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/)
 
-Full Stack Web Developer Loading 
+Full Stack Blockchain Web Developer Loading 
+- 💻 I love JavaScript and its Ecosystem.
+- 🥅 2022 Goals: Learn something new everyday.
+- 🔭 I'm developing my personal website and portfolio. Will release a version ASAP!
 
 Actually I'm Student at Microverse 
+![image](https://user-images.githubusercontent.com/11340240/187434809-00d8f4f4-c324-4692-abac-f6718b14d5f7.png)
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zied2112&count_private=true&show_icons=true&include_all_commits=true)
@@ -34,3 +38,9 @@ Actually I'm Student at Microverse
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zied2112&hide=TeX&layout=compact)
+
+### 💬 Connect with me
+
+- [Twitter](https://twitter.com/AmorZied1996)
+- [LinkedIn](https://www.linkedin.com/in/zied-ben-amor-924908149/)
+
