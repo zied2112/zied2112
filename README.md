@@ -1,6 +1,7 @@
 
 
-## Full Stack Blockchain Web Developer (loading)  <img align="right" width="150px" src="https://media.giphy.com/media/FaAxdPWZ7HKGmlnku7/giphy.gif" />
+## Hi there, I'm Zied 👋 
+#### Full Stack Blockchain Web Developer (loading)  <img align="right" width="150px" src="https://media.giphy.com/media/FaAxdPWZ7HKGmlnku7/giphy.gif" />
 <br/>
 
 [![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com)
