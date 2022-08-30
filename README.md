@@ -1,11 +1,11 @@
 
+
+Full Stack Blockchain Web Developer <img align="" width="50px" src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif" />
 [![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/)
 
-# Full Stack Blockchain Web Developer <img align="left" width="26px" src="https://media.giphy.com/media/hWZBZjMMuMl7sWe0x8/giphy.gif" />
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 - 💻 JavaScript and its Ecosystem.
 - 🥅 2022 Goals: Learn something new everyday.
 - 🔭 I'm developing my personal website and portfolio. Will release a version ASAP!
