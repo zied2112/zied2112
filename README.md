@@ -1,6 +1,6 @@
 
 
-## Full Stack Blockchain Web Developer <img align="" width="150px" src="https://media.giphy.com/media/FaAxdPWZ7HKGmlnku7/giphy.gif" />
+## Full Stack Blockchain Web Developer  <img align="" width="150px" src="https://media.giphy.com/media/FaAxdPWZ7HKGmlnku7/giphy.gif" />
 <br/>
 
 [![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com)
@@ -8,11 +8,11 @@
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/)
 
-- 💻 JavaScript and its Ecosystem.
+- 💻 JavaScript Ecosystem Mentality.
 - 🥅 2022 Goals: Learn something new everyday.
 - 🔭 I'm developing my personal website and portfolio. Will release a version ASAP!
 
-Actually I'm Student at Microverse 
+#### Actually I'm Student at Microverse 
 ![image](https://user-images.githubusercontent.com/11340240/187434809-00d8f4f4-c324-4692-abac-f6718b14d5f7.png)
 
 
