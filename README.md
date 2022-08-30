@@ -4,8 +4,8 @@
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/)
 
-Full Stack Blockchain Web Developer <img align="left" width="26px" src="https://media.giphy.com/media/hWZBZjMMuMl7sWe0x8/giphy.gif" />
-
+# Full Stack Blockchain Web Developer <img align="left" width="26px" src="https://media.giphy.com/media/hWZBZjMMuMl7sWe0x8/giphy.gif" />
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 - 💻 JavaScript and its Ecosystem.
 - 🥅 2022 Goals: Learn something new everyday.
 - 🔭 I'm developing my personal website and portfolio. Will release a version ASAP!
