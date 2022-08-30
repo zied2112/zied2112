@@ -4,9 +4,10 @@
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/)
 
+Full Stack Web Developer Loading 
 
+Actually I'm Student at Microverse <img align="right" alt="Microverse" width="26px" src="https://user-images.githubusercontent.com/11340240/187433612-6460c5b8-4dd9-48c5-9af6-31c9716da934.png" />
 
-Feel free to check out everything I do  if you find any error or have a suggestion do live an issue 🚩
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zied2112&count_private=true&show_icons=true&include_all_commits=true)
 
