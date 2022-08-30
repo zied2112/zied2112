@@ -4,8 +4,9 @@
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/)
 
-Full Stack Blockchain Web Developer Loading 
-- 💻 I love JavaScript and its Ecosystem.
+Full Stack Blockchain Web Developer ![image](https://user-images.githubusercontent.com/11340240/187435382-3ee986d7-a92c-4081-9bb3-4d1d2661aa38.png)
+
+- 💻 JavaScript and its Ecosystem.
 - 🥅 2022 Goals: Learn something new everyday.
 - 🔭 I'm developing my personal website and portfolio. Will release a version ASAP!
 
