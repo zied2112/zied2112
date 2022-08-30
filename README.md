@@ -6,7 +6,7 @@
 
 Full Stack Web Developer Loading 
 
-Actually I'm Student at Microverse <img align="right" alt="Microverse" width="26px" src="https://user-images.githubusercontent.com/11340240/187433612-6460c5b8-4dd9-48c5-9af6-31c9716da934.png" />
+Actually I'm Student at Microverse <img alt="Microverse" src="https://user-images.githubusercontent.com/11340240/187433612-6460c5b8-4dd9-48c5-9af6-31c9716da934.png" />
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zied2112&count_private=true&show_icons=true&include_all_commits=true)
@@ -30,5 +30,7 @@ Actually I'm Student at Microverse <img align="right" alt="Microverse" width="26
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+\
+\
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zied2112&hide=TeX&layout=compact)
