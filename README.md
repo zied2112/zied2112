@@ -14,7 +14,7 @@
 - 🔭 I'm developing my personal website and portfolio. Will release a version ASAP!
 
 #### Actually I'm Student at 
-<a href="https://www.microverse.org/">![image](https://user-images.githubusercontent.com/11340240/187434809-00d8f4f4-c324-4692-abac-f6718b14d5f7.png)</a>
+<a href="https://www.microverse.org/" target="_blank">![image](https://user-images.githubusercontent.com/11340240/187434809-00d8f4f4-c324-4692-abac-f6718b14d5f7.png)</a>
 
 
 
@@ -42,7 +42,7 @@
 ---
 
 
-<a href="https://github.com/zied2112">![Github Stats](https://github-readme-stats.vercel.app/api?username=zied2112&count_private=true&show_icons=true&include_all_commits=true)
+<a href="https://github.com/zied2112" target="_blank">![Github Stats](https://github-readme-stats.vercel.app/api?username=zied2112&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zied2112&hide=TeX&layout=compact)</a>
 ---
 ### 💬 Connect with me
