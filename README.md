@@ -1,5 +1,5 @@
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zied2112&label=Profile%20views&color=0e75b6&style=flat" alt="codebucks27" /> </p>
 ## Hi there, I'm Zied 👋 
 #### Full Stack Blockchain Web Developer (loading)  <img align="right" width="150px" src="https://media.giphy.com/media/FaAxdPWZ7HKGmlnku7/giphy.gif" />
 <br/>
