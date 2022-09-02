@@ -51,11 +51,11 @@
   
 <h2>Socials</h2>
 
-<a href="https://linkedin.com/in/joziasmartini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joziasmartini" height="26" width="34" /></a>
-<a href="https://instagram.com/joziasmartini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="joziasmartini" height="26" width="34" /></a>
-<a href="https://twitter.com/joziasmartini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="joziasmartini" height="26" width="34" /></a>
-<a href="https://medium.com/@joziasmartini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="joziasmartini" height="26" width="34" /></a>
-<a href="https://dev.to/joziasmartini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="joziasmartini" height="26" width="34" /></a>
+<a href="https://linkedin.com/in/zied-ben-amor-924908149/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joziasmartini" height="26" width="34" /></a>
+<a href="https://instagram.com/zied_ben_amor2112" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="joziasmartini" height="26" width="34" /></a>
+<a href="https://twitter.com/AmorZied1996" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="joziasmartini" height="26" width="34" /></a>
+<a href="https://medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="joziasmartini" height="26" width="34" /></a>
+<a href="https://dev.to/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="joziasmartini" height="26" width="34" /></a>
 
 </div>
 
