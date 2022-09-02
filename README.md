@@ -14,10 +14,9 @@
 - 🔭 I'm developing my personal website and portfolio. Will release a version ASAP!
 
 #### Actually I'm Student at 
-![image](https://user-images.githubusercontent.com/11340240/187434809-00d8f4f4-c324-4692-abac-f6718b14d5f7.png)
+<a href="https://www.microverse.org/">![image](https://user-images.githubusercontent.com/11340240/187434809-00d8f4f4-c324-4692-abac-f6718b14d5f7.png)</a>
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=zied2112&count_private=true&show_icons=true&include_all_commits=true)
 
 
 ### Languages and Tools:
@@ -39,10 +38,11 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br/>
-<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zied2112&hide=TeX&layout=compact)
-
+<br/> 
+---
+<a href="https://github.com/zied2112">![Github Stats](https://github-readme-stats.vercel.app/api?username=zied2112&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zied2112&hide=TeX&layout=compact)</a>
+---
 ### 💬 Connect with me
 
 - [Twitter](https://twitter.com/AmorZied1996)
