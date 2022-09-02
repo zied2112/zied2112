@@ -22,7 +22,7 @@
   
 <h2>Stats</h2>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joziasmartini&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&dates=70458F&sideNums=8A6DC5&currStreakLabel=70458F&sideLabels=70458F&ring=8A6DC5&fire=70458F&currStreakNum=70458F&stroke=00000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zied2112&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&dates=70458F&sideNums=8A6DC5&currStreakLabel=70458F&sideLabels=70458F&ring=8A6DC5&fire=70458F&currStreakNum=70458F&stroke=00000000)](https://git.io/streak-stats)
 
 <h2>Technologies</h2>
 
