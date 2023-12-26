@@ -9,13 +9,10 @@
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)   -->
 <!-- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/) -->
 
-- 💻 JavaScript Ecosystem Mentality.
-- 🥅 2022 Goals: Learn something new everyday.
-- 🔭 I'm developing my personal website and portfolio. Will release a version ASAP!
+- 💻 Software Engineering.
+- 🥅 Riching the Highest Levels.
+- 🔭 Github Profile
 <!-- 
-#### Actually I'm Student at 
-<a href="https://www.microverse.org/" target="_blank">![image](https://user-images.githubusercontent.com/11340240/187434809-00d8f4f4-c324-4692-abac-f6718b14d5f7.png)</a>
- -->
 
 
 <div align="center">
